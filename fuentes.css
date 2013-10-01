@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'DroidSans';
+    src: url('DroidSans.woff.woff') format('woff'),
+         url('DroidSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'georgia';
+    src: url('DroidSans.woff.woff') format('woff'),
+         url('georgia.ttf') format('truetype'),
+         url('georgiab.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
